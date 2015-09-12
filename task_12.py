@@ -5,7 +5,7 @@
 import decimal
 import fractions
 
-INTVAL = decimal.Decimal(1)
+INTVAL = decimal.Decimal(1.0)
 FLOATVAL = decimal.Decimal(0.1)
 DECVAL = decimal.Decimal(1)/ decimal.Decimal(10)
 FRACVAL = fractions.Fraction(1, 10)
